@@ -1,0 +1,5 @@
+* TODO default keybindings
+    https://stackoverflow.com/questions/44178763/vscode-extension-api-for-keybindings
+* PROG ligatures
+* TODO checklist counters [x/y]
+* TODO pretty links
